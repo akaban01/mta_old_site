@@ -1,0 +1,48 @@
+
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e {
+			text-align: left;
+		}
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li > a {
+			
+			
+		}
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+		}
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e ul li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+		}
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.selected > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.childselected > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e ul li.selected > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e ul li.childselected > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.selected:hover > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.childselected:hover > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e ul li.selected:hover > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e ul li.childselected:hover > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: none;
+		}
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li:hover > a,
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e ul li:hover > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+		}
+
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e { background-color: ; }
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e > li.normal > a { color: ;}
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e > li.normal { background-color: ; }
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.selected > a, #navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.childselected > a { color: ; }
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.selected, #navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.childselected { background-color: ; }
+		
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e ul > li.normal { background-color: ; }
+		
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.normal:hover > a { color: ; }
+		#navigation-3e4134cd-289d-2482-6ddf-48323b86a03e li.normal:hover { background-color: ; }
+		
